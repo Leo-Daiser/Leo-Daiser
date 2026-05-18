@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Leo-Daiser/Leo-Daiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nikita Ivanisev
 
-Here are some ideas to get you started:
+### Applied ML Engineer · ML Systems Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build production-oriented ML systems:  
+data validation, feature pipelines, model training, APIs, PostgreSQL logging, Dockerized services and testing.
+
+**Focus:** credit scoring · recommender systems · ranking · ML APIs · reproducible pipelines
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+`pandas` `CatBoost` `SQLAlchemy` `pytest` `Typer`
+
+<br>
+
+[Telegram](https://t.me/GLAVNiY_YATOIST) · [GitHub](https://github.com/Leo-Daiser) · [Kaggle](https://www.kaggle.com/leodaiser) 
+
+</div>
