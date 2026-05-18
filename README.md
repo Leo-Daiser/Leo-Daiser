@@ -21,6 +21,6 @@ data validation, feature pipelines, model training, APIs, PostgreSQL logging, Do
 
 <br>
 
-[Telegram](https://t.me/GLAVNiY_YATOIST) · [GitHub](https://github.com/Leo-Daiser) · [Kaggle](https://www.kaggle.com/leodaiser) · [Linked In](https://www.linkedin.com/in/nikita-ivanisev]
+[Telegram](https://t.me/GLAVNiY_YATOIST) · [GitHub](https://github.com/Leo-Daiser) · [Kaggle](https://www.kaggle.com/leodaiser) · [Linked In](https://www.linkedin.com/in/nikita-ivanisev)
 
 </div>
