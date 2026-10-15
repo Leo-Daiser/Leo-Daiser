@@ -1,4 +1,4 @@
-# Nikita Ivanisev
+# Nikita Ivanishchev
 
 **Applied Machine Learning · MSc in Applied Mathematics and Computer Science, MEPhI (2026–2028)**
 
