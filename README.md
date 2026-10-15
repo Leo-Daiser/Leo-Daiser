@@ -11,6 +11,7 @@ I build machine learning models and Python services, with an emphasis on honest 
 
 | Project | What I built | Evidence |
 | --- | --- | --- |
+| **[Avito Bot Detection](https://github.com/Leo-Daiser/avito-bot-detection)** | Offline ML assessment: bot classification with 105 behavioral features, time-based validation and a 5-model CatBoost ensemble | **0.80348 precision at ≥70% recall** on the hidden test set (vs. **0.09391** constant baseline). Independent assessment submission, not employment at Avito. |
 | **[Credit Risk ML Lab](https://github.com/Leo-Daiser/credit-risk-lab)** | Configurable classification pipeline: preprocessing, calibration, explainability and cost-sensitive thresholds | 48 documented unit/integration/smoke/regression tests; configuration for synthetic datasets up to 100k rows |
 | **[Hybrid Recommendation & Ranking](https://github.com/Leo-Daiser/hybrid-recommendation-ranking-service)** | Two-stage MovieLens recommender: popularity/item-KNN retrieval, Logistic Regression/CatBoost ranking, offline evaluation and FastAPI serving | Precision@K, Recall@K, MAP@K, NDCG@K and coverage; PostgreSQL request/feedback logging |
 | **[Riskline](https://github.com/Leo-Daiser/Credit-Risk-Scoring-Service)** | Financial-profile ML service with model training, calibration, API inference, PostgreSQL and Docker-based local demo | Separate public scoring and internal risk-model workflows; readiness and fallback behavior documented |
