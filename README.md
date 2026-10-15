@@ -1,26 +1,38 @@
-<div align="center">
+# Nikita Ivanisev
 
-# Hi, I'm Nikita Ivanisev
+**MSc student in Applied Mathematics and Computer Science at MEPhI (expected 2028).**  
+I build machine learning models and Python services, with an emphasis on honest evaluation, reliable data pipelines, and software that can be tested and maintained.
 
-### Applied ML Engineer · ML Systems Developer
+**Interested in:** Machine Learning / Applied AI / Data Science internships (2027) and entry-level ML engineering opportunities in Europe.
 
-I build production-oriented ML systems:  
-data validation, feature pipelines, model training, APIs, PostgreSQL logging, Dockerized services and testing.
+[LinkedIn](https://www.linkedin.com/in/nikita-ivanisev) · [Email](mailto:nikitosivanisev317@gmail.com)
 
-**Focus:** credit scoring · recommender systems · ranking · ML APIs · reproducible pipelines
+## Selected projects
 
-<br>
+| Project | What I built | Evidence |
+| --- | --- | --- |
+| **[Avito Bot Detection](https://github.com/Leo-Daiser/avito-bot-detection)** | Behavioral bot classification with 105 engineered features, out-of-time validation and a 5-model CatBoost ensemble | **0.80348 precision at ≥70% recall** on the hidden test set (vs. **0.09391** constant baseline). Offline competition solution. |
+| **[Credit Risk ML Lab](https://github.com/Leo-Daiser/credit-risk-lab)** | Configurable classification pipeline: preprocessing, calibration, explainability and cost-sensitive thresholds | 48 documented unit/integration/smoke/regression tests; configuration for synthetic datasets up to 100k rows |
+| **[Hybrid Recommendation & Ranking](https://github.com/Leo-Daiser/hybrid-recommendation-ranking-service)** | Two-stage MovieLens recommender: popularity/item-KNN retrieval, Logistic Regression/CatBoost ranking, offline evaluation and FastAPI serving | Precision@K, Recall@K, MAP@K, NDCG@K and coverage; PostgreSQL request/feedback logging |
+| **[Riskline](https://github.com/Leo-Daiser/Credit-Risk-Scoring-Service)** | Financial-profile ML service with model training, calibration, API inference, PostgreSQL and Docker-based local demo | Separate public scoring and internal risk-model workflows; readiness and fallback behavior documented |
+| **[SciKnot / Nornickel AI Science Hack](https://github.com/Leo-Daiser/NorNickel-XAK)** | Scientific-document GraphRAG system with source citations and traceable fact extraction | FastAPI, Neo4j, BM25/hybrid retrieval, Streamlit and Docker |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+## Research
 
-`pandas` `CatBoost` `SQLAlchemy` `pytest` `Typer`
+**Reduced-order modeling of parameterized dynamical systems** — MSc research in progress. Working on numerical experiments and model reliability under limited or noisy observations. No publication claimed yet.
 
-<br>
+## Tools I use
 
-[Telegram](https://t.me/GLAVNiY_YATOIST) · [GitHub](https://github.com/Leo-Daiser) · [Kaggle](https://www.kaggle.com/leodaiser) · [Linked In](https://www.linkedin.com/in/nikita-ivanisev)
+**ML & data:** Python, pandas, NumPy, scikit-learn, CatBoost, PyTorch, SQL  
+**Engineering:** FastAPI, PostgreSQL, SQLAlchemy, Docker, pytest, Git  
+**Methods:** feature engineering, temporal validation, model evaluation, imbalanced classification, retrieval and ranking
 
-</div>
+## Selected achievements
+
+- **3rd place, NuclearHack 2025** — traffic-load forecasting.
+- **Top 5, NuclearHack 2026** — analysis of Raman spectra.
+- **45th / 180 teams, Nornickel AI Science Hack** — scientific information extraction and GraphRAG.
+
+**Languages:** English (B2), Russian (native).
+
+*This profile highlights student, research and personal projects; it does not imply professional employment at the organizations named in competition projects.*
